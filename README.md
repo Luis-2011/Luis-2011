@@ -1,5 +1,7 @@
-## Hi there 👋
+Trying to understand how code works, one project at a time.
 
+🇵🇪 Spanish | English (learning)
+Currently learning Python and Java.
 <!--
 **Luis-2011/Luis-2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{Luis-2011}/count.svg" alt="Visitor's Count" />
+</div>
