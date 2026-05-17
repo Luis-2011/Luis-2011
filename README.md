@@ -31,4 +31,5 @@
 idk what im doing rw with my life
 
 <p align="center">
-  <img src="https://kom
+  <img src="https://komarev.com/ghpvc/?username=Luis-2011&color=blue&style=flat" alt="profile views"/>
+</p>
