@@ -24,7 +24,7 @@
 
 ## 📫 How to reach me
 
-> DISCORD!!!!!!! -- > lucc2
+> DISCORD!1!!!! -- > lucc2
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/794065111005790208)
 ---
 
