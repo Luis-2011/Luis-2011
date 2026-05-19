@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-b07219?style=flat&logo=java&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-open_24/7-F58025?style=flat&logo=stackoverflow&logoColor=white)
 ---
 
 ## 🚧 Projects / Ideas
